@@ -8,6 +8,10 @@ Notes
 
     hugo -t lp-dream
 
+
+git submodule add -b master https://github.com/LearnerPrivacy/LearnerPrivacy.github.io.git public
+
+
 https://render.com/
 
 
