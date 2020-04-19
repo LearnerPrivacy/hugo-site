@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/erblog"]
+	path = themes/erblog
+	url = https://github.com/ertuil/erblog.git
+[submodule "themes/lp-dream"]
+	path = themes/lp-dream
+	url = https://github.com/LearnerPrivacy/hugo-theme-dream.git

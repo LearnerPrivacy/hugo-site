@@ -1,0 +1,20 @@
+
+# https://g1eny0ung.site/
+# https://github.com/g1eny0ung/blog
+# https://github.com/g1eny0ung/hugo-theme-dream
+# https://render.com/
+
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "lp-dream"
+
+[params]
+  # background = "black"
+  backgroundImage = "/me/high-rise-buildings-at-nighttime-2147287.jpg"
+  darkNav = true
+  author = "Learner Privacy"
+  name = "Learner Privacy"
+
+[blogAlias]
+other = "'s blog"
