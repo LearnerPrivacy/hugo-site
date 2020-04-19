@@ -32,3 +32,6 @@ https://g1eny0ung.site/hugo-theme-dream/
 
 https://www.pexels.com/
 
+https://www.pexels.com/@matheusnatan
+https://www.pexels.com/@george-desipris
+
