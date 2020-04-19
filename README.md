@@ -6,6 +6,8 @@ Notes
 
     hugo serve -D
 
+    hugo -t lp-dream
+
 https://render.com/
 
 
