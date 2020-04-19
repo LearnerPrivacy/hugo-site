@@ -19,6 +19,7 @@ https://help.github.com/en/github/working-with-github-pages/managing-a-custom-do
 
 Thanks
 ------
+
 https://g1eny0ung.site/
 
 https://github.com/g1eny0ung/blog
@@ -34,4 +35,9 @@ https://www.pexels.com/
 
 https://www.pexels.com/@matheusnatan
 https://www.pexels.com/@george-desipris
+https://www.pexels.com/@pawel-l-435199
+https://www.pexels.com/@michaela-87369
+https://www.pexels.com/@jero-belarmino-365380
+https://www.pexels.com/@joao-cabral-1723948
+
 
