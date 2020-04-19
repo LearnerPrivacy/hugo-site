@@ -1,7 +1,7 @@
 
 baseURL = "https://www.learnerprivacy.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "LearnerPrivacy.org"
 theme = "lp-dream"
 
 [params]
