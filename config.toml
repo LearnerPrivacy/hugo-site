@@ -1,10 +1,5 @@
 
-# https://g1eny0ung.site/
-# https://github.com/g1eny0ung/blog
-# https://github.com/g1eny0ung/hugo-theme-dream
-# https://render.com/
-
-baseURL = "http://example.org/"
+baseURL = "https://www.learnerprivacy.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "lp-dream"
@@ -15,6 +10,3 @@ theme = "lp-dream"
   darkNav = true
   author = "Learner Privacy"
   name = "Learner Privacy"
-
-[blogAlias]
-other = "'s blog"
