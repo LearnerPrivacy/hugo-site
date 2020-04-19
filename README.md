@@ -11,8 +11,10 @@ Notes
 
 git submodule add -b master https://github.com/LearnerPrivacy/LearnerPrivacy.github.io.git public
 
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
-https://render.com/
+https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
+
 
 
 Thanks
@@ -25,4 +27,8 @@ https://themes.gohugo.io/hugo-theme-dream/
 
 https://github.com/g1eny0ung/hugo-theme-dream
 
+https://g1eny0ung.site/hugo-theme-dream/
+
+
+https://www.pexels.com/
 
