@@ -6,16 +6,15 @@ Notes
 
     hugo serve -D
 
-    hugo -t lp-dream
 
-
-git submodule add -b master https://github.com/LearnerPrivacy/LearnerPrivacy.github.io.git public
+References
+----------
 
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
 
-
+https://www.zamzar.com/convert/png-to-ico/
 
 Thanks
 ------
