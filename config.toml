@@ -3,10 +3,11 @@ baseURL = "https://www.learnerprivacy.org/"
 languageCode = "en-us"
 title = "LearnerPrivacy.org"
 theme = "lp-dream"
+author = "Charles R. Severance"
 
 [params]
   # background = "black"
   backgroundImage = "/me/high-rise-buildings-at-nighttime-2147287.jpg"
   darkNav = true
   author = "Learner Privacy"
-  name = "Learner Privacy"
+  # motto = "Zap"
