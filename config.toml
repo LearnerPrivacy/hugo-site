@@ -7,7 +7,10 @@ author = "Charles R. Severance"
 
 [params]
   # background = "black"
-  backgroundImage = "/me/high-rise-buildings-at-nighttime-2147287.jpg"
+  # backgroundImage = "/me/high-rise-buildings-at-nighttime-2147287.jpg"
+  # backgroundImage = "/me/greyscale-photography-of-person-walking-between-trees-3304855.jpg"
+  # backgroundImage = "/me/group-of-people-crossing-pedestrian-lane-in-greyscale-1309687.jpg"
+  backgroundImage = "/me/low-angle-view-of-man-standing-at-night-316681.jpg"
   darkNav = true
   author = "Learner Privacy"
   # motto = "Zap"
