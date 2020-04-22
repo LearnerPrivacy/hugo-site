@@ -6,11 +6,7 @@ author: "drchuck"
 tags: ["about"]
 ---
 
-I am starting a podcast about Learner Privacy because it feels to me like
-we have made so much progress in the area of educational 
-technology interopeability but 
-have done so with wanton disregard of our responsibility to protect the
-private data that belongs to our learners.
+I am launching a Learning Privacy podcast to address privacy issues for our learners.    While we have made great progress in educational technology interoperability, we have done so with wanton disregard for the protection of learners' privacy.  In 2002, there were no useful standards for moving software or content among commercial learning management systems.  Each system had its own "plugin" and "backup/restore" format.
 
 If we go back to 2002, there were no useful standards around
 moving software or content between commercial learning management systems.
