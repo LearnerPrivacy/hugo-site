@@ -12,10 +12,11 @@ If we go back to 2002, there were no useful standards around
 moving software or content between commercial learning management systems.
 Every system had their own "plugin" and "backup/restore" format.
 
-With the rise of open source LMS alternatives like Sakai and Moodle, commercial
-LMS vendors were forced to come to the standards table and after over 
+With the rise of open source LMS alternatives in the early 2000's like
+Sakai and Moodle, commercial LMS vendors were forced to come
+to the standards table.  After over 
 a decade of effort, standards like IMS Learning Tools Interoperability
-and IMS Common Cartridge addressed the need for data portability and
+and IMS Common Cartridge addressed the important need for data portability and
 software interoperability.
 
 Almost two decades later with the release of the IMS LTI Advantage suite
