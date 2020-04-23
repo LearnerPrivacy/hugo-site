@@ -1,5 +1,5 @@
 ---
-title: "About the Learner Privacy podcast"
+title: "The Learner Privacy Podcast"
 date: 2020-04-19T09:40:25-04:00
 cover: /me/white-and-black-moon-with-black-skies-and-body-of-water-748626.jpg
 author: "drchuck"
