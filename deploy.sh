@@ -24,9 +24,15 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-echo "Updating main repo..."
-
 cd ..
+echo "Updating theme repo..."
+cd theme/lp-dream
+git add .
+git commit -m "$msg"
+git push
+
+echo "Updating main repo..."
+cd ../..
 git add .
 git commit -m "$msg"
 git push origin master
