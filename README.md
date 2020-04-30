@@ -6,6 +6,10 @@ Notes
 
     hugo serve -D
 
+While modifying the lp-dream
+
+    cd themes/lp-dream
+    gulp watch
 
 References
 ----------
