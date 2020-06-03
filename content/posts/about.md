@@ -21,7 +21,7 @@ software interoperability.
 
 Almost two decades later with the release of the IMS LTI Advantage suite
 of specifications, learning software interopability is in very good shape
-but learner privacy is a disaster.
+but concern for learner privacy is a very low ebb.
 
 To address this significant problem we have to look at the
 past (when and how we made privacy mistakes in the rush to interoperability),
@@ -32,6 +32,10 @@ vendors see our private data as their asset).
 It is a long and interesting story and will take a while to tell.
 I look forward to hearring from all of you along the way to a future
 where learner privacy matters.
+
+The source code for this site/blog is on github
+at https://github.com/LearnerPrivacy/hugo-site - if you
+find a mistake or want to update a page, feel free to send a pull request.
 
 -- Dr. Chuck
 
