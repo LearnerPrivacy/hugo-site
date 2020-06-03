@@ -3,6 +3,7 @@ title: "IMS Privacy Resources"
 date: 2020-04-18T09:40:25-04:00
 author: "drchuck"
 tags: ["resources"]
+categories: ["resources"]
 ---
 
 This page will be used to collect links and resources for the IMS 
