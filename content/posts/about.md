@@ -21,7 +21,7 @@ software interoperability.
 
 Almost two decades later with the release of the IMS LTI Advantage suite
 of specifications, learning software interopability is in very good shape
-but concern for learner privacy is a very low ebb.
+but concern in eduational institutions for learner privacy is a very low ebb.
 
 To address this significant problem we have to look at the
 past (when and how we made privacy mistakes in the rush to interoperability),
