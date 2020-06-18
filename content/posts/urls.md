@@ -19,6 +19,9 @@ https://podcasts.apple.com/us/podcast/learnerprivacy-org/id1517868645
 * Spotify Podcast - 
 https://open.spotify.com/show/2ccG5BxCwOA6aqDvPdJYfq
 
+* Google Podcast - 
+https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMDkwNjUyLnJzcw==
+
 * Patreon - you might want to be a member - 
 https://www.patreon.com/learnerprivacy
 
