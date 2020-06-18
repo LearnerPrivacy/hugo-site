@@ -16,7 +16,10 @@ https://www.facebook.com/LearnerPrivacy
 * Apple iTunes Podcast - 
 https://podcasts.apple.com/us/podcast/learnerprivacy-org/id1517868645
 
-* Patreon - you might want ot be a member - 
+* Spotify Podcast - 
+https://open.spotify.com/show/2ccG5BxCwOA6aqDvPdJYfq
+
+* Patreon - you might want to be a member - 
 https://www.patreon.com/learnerprivacy
 
 * YouTube - Playlist
