@@ -2,7 +2,7 @@
 title: "Podcast URLs"
 date: 2020-04-02T09:40:25-04:00
 author: "drchuck"
-tags: ["podcasts", "links"]
+tags: ["podcast", "links"]
 ---
 
 This page contains some URLs related to the podcast.
