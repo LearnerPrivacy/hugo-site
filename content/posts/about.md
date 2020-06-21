@@ -6,7 +6,12 @@ author: "drchuck"
 tags: ["about"]
 ---
 
-I am launching a Learning Privacy podcast to address privacy issues for our learners.    While we have made great progress in educational technology interoperability, we have done so with wanton disregard for the protection of learners' privacy.  In 2002, there were no useful standards for moving software or content among commercial learning management systems.  Each system had its own "plugin" and "backup/restore" format.
+I am launching a Learning Privacy podcast to address privacy issues for our learners.
+While we have made great progress in educational technology interoperability,
+we have done so with litter concern for the protection of learners' private data.
+
+Please visit the _[Podcast URLs Page](/posts/urls/)_ to find the urls where you can 
+subscrbe to this podcast.
 
 If we go back to 2002, there were no useful standards around
 moving software or content between commercial learning management systems.
@@ -21,7 +26,8 @@ software interoperability.
 
 Almost two decades later with the release of the IMS LTI Advantage suite
 of specifications, learning software interopability is in very good shape
-but concern in eduational institutions for learner privacy is a very low ebb.
+but concern for protecting learner's private dats in educational institutions
+is at a very low ebb.
 
 To address this significant problem we have to look at the
 past (when and how we made privacy mistakes in the rush to interoperability),
