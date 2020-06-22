@@ -6,11 +6,12 @@ author: "drchuck"
 tags: ["about"]
 ---
 
+To play the podcast, click on the "bullseye" in the upper left of the screen.
+
 The purpose of the Learning Privacy podcast is to explore privacy issues for our learners.
 While we have made great progress in educational technology interoperability,
-we have done so without enough concern for the protection of learners' private data.
-
-To play the podcast, click on the "bullseye" in the upper left of the screen.
+we have done so without enough concern for
+the protection of learners' private data.
 
 <!--more-->
 
@@ -23,7 +24,7 @@ Every system had their own "plugin" and "backup/restore" format.
 
 With the rise of open source LMS alternatives in the early 2000's like
 Sakai and Moodle, commercial LMS vendors were forced to participate in
-buiulding interoperability standards.  After over 
+buiulding interoperability standards.  After over
 a decade of effort, standards like IMS Learning Tools Interoperability
 and IMS Common Cartridge addressed the important need for data portability and
 software interoperability.
@@ -46,8 +47,7 @@ where learner privacy matters.
 Access to the Podcast
 ---------------------
 
-Please visit the _[Podcast URLs Page](/posts/urls/)_ to find the urls where you can 
-subscrbe to this podcast.
+Please visit the _[Podcast URLs Page](/posts/urls/)_ to find the urls where you can subscrbe to this podcast.
 
 
 The source code for this site/blog is on github
