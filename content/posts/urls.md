@@ -5,7 +5,7 @@ author: "drchuck"
 tags: ["podcast", "links"]
 ---
 
-This page contains important URLs related to the podcast including
+This post contains important URLs related to the podcast including
 the URLs to subscribe to the podcast on various podcasting platforms.
 
 <!--more-->
@@ -31,6 +31,7 @@ https://www.patreon.com/learnerprivacy
 * YouTube - Playlist
 https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5_COWemO4hxAFpgPhqOY7e
 
+To play the podcast on this web site, click on the "bullseye" in the upper left of the screen.
 
 
 
