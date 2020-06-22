@@ -5,7 +5,10 @@ author: "drchuck"
 tags: ["podcast", "links"]
 ---
 
-This page contains some URLs related to the podcast.
+This page contains important URLs related to the podcast including
+the URLs to subscribe to the podcast on various podcasting platforms.
+
+<!--more-->
 
 * Main Podcast Page -
 https://podcast.learnerprivacy.org

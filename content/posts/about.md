@@ -13,6 +13,8 @@ we have done so with litter concern for the protection of learners' private data
 Please visit the _[Podcast URLs Page](/posts/urls/)_ to find the urls where you can 
 subscrbe to this podcast.
 
+<!--more-->
+
 If we go back to 2002, there were no useful standards around
 moving software or content between commercial learning management systems.
 Every system had their own "plugin" and "backup/restore" format.
