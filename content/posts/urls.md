@@ -31,7 +31,7 @@ https://www.patreon.com/learnerprivacy
 * YouTube - Playlist
 https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5_COWemO4hxAFpgPhqOY7e
 
-To play the podcast on this web site, click on the "bullseye" in the upper left of the screen.
+To play the podcast on this web site, click on the "headphone" in the upper left of the screen.
 
 
 

@@ -6,7 +6,7 @@ author: "drchuck"
 tags: ["about"]
 ---
 
-To play the podcast, click on the "bullseye" in the upper left of the screen.
+To play the podcast, click on the "headphone" in the upper left of the screen.
 
 The purpose of the Learning Privacy podcast is to explore privacy issues for our learners.
 While we have made great progress in educational technology interoperability,
